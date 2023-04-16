@@ -14,45 +14,35 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object Edit1: TEdit
+  object TEdit
     Left = 152
-    Top = 40
+    Top = 59
     Width = 121
     Height = 21
     TabOrder = 0
-    Text = 'Edit1'
   end
-  object Edit2: TEdit
+  object TEdit
     Left = 152
-    Top = 72
+    Top = 86
     Width = 121
     Height = 21
     TabOrder = 1
-    Text = 'Edit2'
   end
   object ListBox1: TListBox
-    Left = 176
-    Top = 40
-    Width = 41
-    Height = 1
+    Left = 152
+    Top = 144
+    Width = 281
+    Height = 217
     ItemHeight = 13
     TabOrder = 2
   end
-  object ListBox2: TListBox
-    Left = 128
-    Top = 99
-    Width = 321
-    Height = 241
-    ItemHeight = 13
-    TabOrder = 3
-  end
   object Button1: TButton
-    Left = 24
-    Top = 99
+    Left = 152
+    Top = 113
     Width = 75
     Height = 25
-    Caption = 'Button1'
-    TabOrder = 4
+    Caption = 'Limpiar'
+    TabOrder = 3
     OnClick = Button1Click
   end
   object MainMenu1: TMainMenu

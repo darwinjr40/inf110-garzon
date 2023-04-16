@@ -11,10 +11,7 @@ type
     MainMenu1: TMainMenu;
     numero1: TMenuItem;
     ejercicio11: TMenuItem;
-    Edit1: TEdit;
-    Edit2: TEdit;
     ListBox1: TListBox;
-    ListBox2: TListBox;
     Button1: TButton;
     ejercicio21: TMenuItem;
     procedure ejercicio11Click(Sender: TObject);
