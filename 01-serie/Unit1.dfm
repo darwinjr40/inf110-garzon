@@ -14,14 +14,14 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object TEdit
+  object edit1: TEdit
     Left = 152
     Top = 59
     Width = 121
     Height = 21
     TabOrder = 0
   end
-  object TEdit
+  object edit2: TEdit
     Left = 152
     Top = 86
     Width = 121

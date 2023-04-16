@@ -14,6 +14,8 @@ type
     ListBox1: TListBox;
     Button1: TButton;
     ejercicio21: TMenuItem;
+    edit1: TEdit;
+    edit2: TEdit;
     procedure ejercicio11Click(Sender: TObject);
     procedure Button1Click(Sender: TObject);
   private

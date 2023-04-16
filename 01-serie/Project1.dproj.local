@@ -2,8 +2,8 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2023/04/15 09:49:57.000.683,=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/04/15 10:36:59.000.844,D:\00_materia\auxiliar\INF110\garzon\01-serie\Unit1.dfm=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/04/15 10:36:59.000.844,D:\00_materia\auxiliar\INF110\garzon\01-serie\Unit1.pas=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/04/15 10:37:00.000.873,D:\00_materia\auxiliar\INF110\garzon\01-serie\Project1.dproj=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/15 10:36:59.000.844,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\00_materia\auxiliar\INF110\garzon\01-serie\Unit1.dfm</Transaction>
+    <Transaction>2023/04/15 10:36:59.000.844,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\00_materia\auxiliar\INF110\garzon\01-serie\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 10:37:00.000.873,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\00_materia\auxiliar\INF110\garzon\01-serie\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
