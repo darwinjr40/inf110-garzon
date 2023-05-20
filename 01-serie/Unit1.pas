@@ -11,12 +11,11 @@ type
     MainMenu1: TMainMenu;
     numero1: TMenuItem;
     ejercicio11: TMenuItem;
-    Edit1: TEdit;
-    Edit2: TEdit;
     ListBox1: TListBox;
-    ListBox2: TListBox;
     Button1: TButton;
     ejercicio21: TMenuItem;
+    edit1: TEdit;
+    edit2: TEdit;
     procedure ejercicio11Click(Sender: TObject);
     procedure Button1Click(Sender: TObject);
   private
