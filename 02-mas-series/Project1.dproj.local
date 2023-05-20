@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/22 09:46:08.000.972,=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 10:16:52.000.982,D:\00_materia\auxiliar\INF110\garzon\02-mas-series\Unit1.dfm=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/22 10:16:52.000.982,D:\00_materia\auxiliar\INF110\garzon\02-mas-series\Unit1.pas=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 10:16:54.000.079,D:\00_materia\auxiliar\INF110\garzon\02-mas-series\Project1.dproj=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
