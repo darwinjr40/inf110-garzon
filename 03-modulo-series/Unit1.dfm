@@ -58,6 +58,18 @@ object Form1: TForm1
         Caption = 'Pregunta examen 1'
         OnClick = Preguntaexamen11Click
       end
+      object cantDig1: TMenuItem
+        Caption = 'cantDig'
+        OnClick = cantDig1Click
+      end
+      object potencia1: TMenuItem
+        Caption = 'potencia'
+        OnClick = potencia1Click
+      end
+      object GetPrimerUltDig1: TMenuItem
+        Caption = 'GetPrimerUltDig'
+        OnClick = GetPrimerUltDig1Click
+      end
     end
   end
 end
