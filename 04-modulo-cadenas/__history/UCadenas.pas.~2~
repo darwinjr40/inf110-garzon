@@ -1,0 +1,25 @@
+unit UCadenas;
+
+interface
+   function CantConstPal(i: byte; cad:String; n :integer): byte;
+implementation
+
+function CantConstPal(i: byte; cad:String; n :integer): byte;
+//const CON : set of char=['B','C','D','F','G','H','J','K','L','M','P','Q','R','S','T','V','W','X','Y','Z','N'];
+const con : set of char=['b','c','d','f','g','h','j','k','l','m','p','q','r','s','t','v','w','x','y','z','n'];
+var s : byte;
+begin
+  s := 0;
+  while (i<=n)and( not (cad[i] in CON)) do
+  begin
+   i := i + 1;
+  end;
+  while (i<=n)and( cad[i] <> ' ') do
+  begin
+   if cad[i] in CON then
+     s := s + 1;
+   i := i + 1;
+  end;
+  result := s;
+end;
+end.

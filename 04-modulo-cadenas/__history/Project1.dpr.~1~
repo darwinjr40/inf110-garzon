@@ -2,8 +2,7 @@ program Project1;
 
 uses
   Vcl.Forms,
-  Formulario in 'Formulario.pas' {Form1},
-  UCadenas in 'UCadenas.pas';
+  Formulario in 'Formulario.pas' {Form1};
 
 {$R *.res}
 
