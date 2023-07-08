@@ -1,9 +1,10 @@
+00-entradas-salidas/__history/
+00-entradas-salidas/Win32/
+00-entradas-salidas/__recovery/
+
 01-serie/__history/
 01-serie/Win32/
 01-serie/__recovery
-00-entradas-salidas/__history/
-00-entradas-salidas/Win32/
-00-entradas-salidas/__recovery
 
 02-mas-series/__history/
 02-mas-series/Win32/
@@ -11,4 +12,17 @@
 
 03-modulo-series/__history/
 03-modulo-series/Win32/
-03-modulo-series/__recovery
+03-modulo-series/__recovery/
+
+04-modulo-cadenas/Win32/
+04-modulo-cadenas/__history/
+04-modulo-cadenas/__recovery/
+
+poo/Fecha/Win32/
+poo/Fecha/__history/
+poo/Fecha/__recovery/
+
+
+poo/Fraccion/Win32/
+poo/Fraccion/__history/
+poo/Fraccion/__recovery/

@@ -43,7 +43,7 @@ end;
 
 procedure TForm1.contarconstantesdelaprimerapalabra1Click(Sender: TObject);
 begin
- edit2.Text := IntToStr(CantConstPal(1, cad, n));
+ edit2.Text := IntToStr(CantConstPal(cad, n));
 end;
 
 procedure TForm1.contarpalabras1Click(Sender: TObject);

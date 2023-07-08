@@ -3,10 +3,10 @@
 	<Transactions>
     <Transaction>2023/05/20 10:40:31.000.764,=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2023/06/03 09:31:04.000.774,=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/06/03 09:50:42.000.996,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\00_materia\auxiliar\INF110\garzon\04-modulo-cadenas\Formulario.dfm</Transaction>
-    <Transaction>2023/06/03 09:50:42.000.996,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\00_materia\auxiliar\INF110\garzon\04-modulo-cadenas\Formulario.pas</Transaction>
-    <Transaction>2023/06/03 09:50:44.000.361,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\00_materia\auxiliar\INF110\garzon\04-modulo-cadenas\Project1.dproj</Transaction>
-    <Transaction>2023/06/17 19:56:55.394,=G:\auxiliar\inf110-garzon\04-modulo-cadenas\Unit1.pas</Transaction>
-    <Transaction>2023/06/17 19:57:12.621,G:\auxiliar\inf110-garzon\04-modulo-cadenas\UCadenas.pas=G:\auxiliar\inf110-garzon\04-modulo-cadenas\Unit1.pas</Transaction>
+    <Transaction>2023/06/03 09:50:42.000.996,D:\00_materia\auxiliar\INF110\garzon\04-modulo-cadenas\Formulario.dfm=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/03 09:50:42.000.996,D:\00_materia\auxiliar\INF110\garzon\04-modulo-cadenas\Formulario.pas=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/03 09:50:44.000.361,D:\00_materia\auxiliar\INF110\garzon\04-modulo-cadenas\Project1.dproj=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/06/17 19:56:55.000.394,=G:\auxiliar\inf110-garzon\04-modulo-cadenas\Unit1.pas</Transaction>
+    <Transaction>2023/06/17 19:57:12.000.621,G:\auxiliar\inf110-garzon\04-modulo-cadenas\Unit1.pas=G:\auxiliar\inf110-garzon\04-modulo-cadenas\UCadenas.pas</Transaction>
   </Transactions>
 </BorlandProject>
