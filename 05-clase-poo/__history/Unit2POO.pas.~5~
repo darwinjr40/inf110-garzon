@@ -1,0 +1,33 @@
+unit Unit2POO;
+
+interface
+
+uses SysUtils;
+
+type
+  NumeroNatural=class
+  private
+    { Private declarations }
+    Valor:word; //var global
+  public
+    { Public declarations }
+    Constructor create;
+    Procedure CambiarValor(V:word);
+    function ObtenerValor: word;
+
+end;
+
+implementation
+  Constructor NumeroNatural.create;
+  begin
+    Valor:=0;
+  end;
+  procedure NumeroNatural.CambiarValor(V:word);
+  begin
+    Valor:=V;
+  end;
+  function NumeroNatural.ObtenerValor: Word;
+  begin
+    ObtenerValor:=Valor; //result;
+  end;
+end.

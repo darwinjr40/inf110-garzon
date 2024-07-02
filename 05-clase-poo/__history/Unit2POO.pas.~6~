@@ -1,0 +1,46 @@
+unit Unit2POO;
+
+interface
+
+uses SysUtils;
+
+type
+  NumeroNatural=class
+  private
+    { Private declarations }
+    Valor:word; //var global
+  public
+    { Public declarations }
+    Constructor create;
+    Procedure CambiarValor(V:word);
+    function ObtenerValor: word;
+    function ContarDigito:byte; //No debe ser igual a una funcion o proceso ya creado
+
+end;
+
+implementation
+  Constructor NumeroNatural.create;
+  begin
+    Valor:=0;
+  end;
+  procedure NumeroNatural.CambiarValor(V:word);
+  begin
+    Valor:=V;
+  end;
+  function NumeroNatural.ObtenerValor: Word;
+  begin
+    ObtenerValor:=Valor; //result;
+  end;
+  function NumeroNatural.ContarDigito: Byte;
+  var n: word;
+      c: byte;
+  begin
+    c:=0;
+    n:=Valor;
+    repeat
+      n:=n div 10;
+      inc(c);
+    until n=0;
+    result:=c;
+  end;
+end.

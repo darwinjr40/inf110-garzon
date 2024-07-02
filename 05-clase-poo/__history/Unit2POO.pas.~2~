@@ -1,0 +1,17 @@
+unit Unit2POO;
+
+interface
+
+uses SysUtils;
+
+type
+  NumeroNatural=class
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+end;
+
+implementation
+
+end.
